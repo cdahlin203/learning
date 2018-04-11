@@ -1,8 +1,9 @@
 html {
-background-color: #778899;
+background-image: url(./images/tree.jpg);
+/*background-color: #4682B4;*/
 }
 p{
   text-align: center;
-  color: #FFFAFA;
+  color: black;
   font-size: 16px;
 }
